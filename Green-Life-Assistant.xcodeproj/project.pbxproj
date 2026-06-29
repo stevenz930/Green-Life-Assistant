@@ -23,50 +23,50 @@
 			containerPortal = F638FFCC2EEE01DA00F3293C /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F638FFD32EEE01DA00F3293C;
-			remoteInfo = EA;
+			remoteInfo = Green-Life-Assistant;
 		};
 		F638FFEC2EEE01DB00F3293C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = F638FFCC2EEE01DA00F3293C /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F638FFD32EEE01DA00F3293C;
-			remoteInfo = EA;
+			remoteInfo = Green-Life-Assistant;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F638FFD42EEE01DA00F3293C /* EA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EA.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F638FFE12EEE01DB00F3293C /* EATests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EATests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F638FFEB2EEE01DB00F3293C /* EAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F638FFD42EEE01DA00F3293C /* Green-Life-Assistant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Green-Life-Assistant.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F638FFE12EEE01DB00F3293C /* Green-Life-AssistantTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Green-Life-AssistantTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F638FFEB2EEE01DB00F3293C /* Green-Life-AssistantUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Green-Life-AssistantUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F63959382EF404B300556D9F /* Exceptions for "EA" folder in "EA" target */ = {
+		F63959382EF404B300556D9F /* Exceptions for "Green-Life-Assistant" folder in "Green-Life-Assistant" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F638FFD32EEE01DA00F3293C /* EA */;
+			target = F638FFD32EEE01DA00F3293C /* Green-Life-Assistant */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F638FFD62EEE01DA00F3293C /* EA */ = {
+		F638FFD62EEE01DA00F3293C /* Green-Life-Assistant */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F63959382EF404B300556D9F /* Exceptions for "EA" folder in "EA" target */,
+				F63959382EF404B300556D9F /* Exceptions for "Green-Life-Assistant" folder in "Green-Life-Assistant" target */,
 			);
-			path = EA;
+			path = Green-Life-Assistant;
 			sourceTree = "<group>";
 		};
-		F638FFE42EEE01DB00F3293C /* EATests */ = {
+		F638FFE42EEE01DB00F3293C /* Green-Life-AssistantTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = EATests;
+			path = Green-Life-AssistantTests;
 			sourceTree = "<group>";
 		};
-		F638FFEE2EEE01DB00F3293C /* EAUITests */ = {
+		F638FFEE2EEE01DB00F3293C /* Green-Life-AssistantUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = EAUITests;
+			path = Green-Life-AssistantUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -107,9 +107,9 @@
 		F638FFCB2EEE01DA00F3293C = {
 			isa = PBXGroup;
 			children = (
-				F638FFD62EEE01DA00F3293C /* EA */,
-				F638FFE42EEE01DB00F3293C /* EATests */,
-				F638FFEE2EEE01DB00F3293C /* EAUITests */,
+				F638FFD62EEE01DA00F3293C /* Green-Life-Assistant */,
+				F638FFE42EEE01DB00F3293C /* Green-Life-AssistantTests */,
+				F638FFEE2EEE01DB00F3293C /* Green-Life-AssistantUITests */,
 				F638FFD52EEE01DA00F3293C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -117,9 +117,9 @@
 		F638FFD52EEE01DA00F3293C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F638FFD42EEE01DA00F3293C /* EA.app */,
-				F638FFE12EEE01DB00F3293C /* EATests.xctest */,
-				F638FFEB2EEE01DB00F3293C /* EAUITests.xctest */,
+				F638FFD42EEE01DA00F3293C /* Green-Life-Assistant.app */,
+				F638FFE12EEE01DB00F3293C /* Green-Life-AssistantTests.xctest */,
+				F638FFEB2EEE01DB00F3293C /* Green-Life-AssistantUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -127,9 +127,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F638FFD32EEE01DA00F3293C /* EA */ = {
+		F638FFD32EEE01DA00F3293C /* Green-Life-Assistant */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F638FFF52EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "EA" */;
+			buildConfigurationList = F638FFF52EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "Green-Life-Assistant" */;
 			buildPhases = (
 				F638FFD02EEE01DA00F3293C /* Sources */,
 				F638FFD12EEE01DA00F3293C /* Frameworks */,
@@ -140,9 +140,9 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F638FFD62EEE01DA00F3293C /* EA */,
+				F638FFD62EEE01DA00F3293C /* Green-Life-Assistant */,
 			);
-			name = EA;
+			name = Green-Life-Assistant;
 			packageProductDependencies = (
 				F63959222EF2D61200556D9F /* Auth */,
 				F63959242EF2D61200556D9F /* Functions */,
@@ -153,13 +153,13 @@
 				F635596D2F7D475300817A9F /* MarkdownUI */,
 				F64C12522F96BD3B00963666 /* OpenAI */,
 			);
-			productName = EA;
-			productReference = F638FFD42EEE01DA00F3293C /* EA.app */;
+			productName = Green-Life-Assistant;
+			productReference = F638FFD42EEE01DA00F3293C /* Green-Life-Assistant.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F638FFE02EEE01DB00F3293C /* EATests */ = {
+		F638FFE02EEE01DB00F3293C /* Green-Life-AssistantTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F638FFF82EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "EATests" */;
+			buildConfigurationList = F638FFF82EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "Green-Life-AssistantTests" */;
 			buildPhases = (
 				F638FFDD2EEE01DB00F3293C /* Sources */,
 				F638FFDE2EEE01DB00F3293C /* Frameworks */,
@@ -171,18 +171,18 @@
 				F638FFE32EEE01DB00F3293C /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				F638FFE42EEE01DB00F3293C /* EATests */,
+				F638FFE42EEE01DB00F3293C /* Green-Life-AssistantTests */,
 			);
-			name = EATests;
+			name = Green-Life-AssistantTests;
 			packageProductDependencies = (
 			);
-			productName = EATests;
-			productReference = F638FFE12EEE01DB00F3293C /* EATests.xctest */;
+			productName = Green-Life-AssistantTests;
+			productReference = F638FFE12EEE01DB00F3293C /* Green-Life-AssistantTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F638FFEA2EEE01DB00F3293C /* EAUITests */ = {
+		F638FFEA2EEE01DB00F3293C /* Green-Life-AssistantUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F638FFFB2EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "EAUITests" */;
+			buildConfigurationList = F638FFFB2EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "Green-Life-AssistantUITests" */;
 			buildPhases = (
 				F638FFE72EEE01DB00F3293C /* Sources */,
 				F638FFE82EEE01DB00F3293C /* Frameworks */,
@@ -194,13 +194,13 @@
 				F638FFED2EEE01DB00F3293C /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				F638FFEE2EEE01DB00F3293C /* EAUITests */,
+				F638FFEE2EEE01DB00F3293C /* Green-Life-AssistantUITests */,
 			);
-			name = EAUITests;
+			name = Green-Life-AssistantUITests;
 			packageProductDependencies = (
 			);
-			productName = EAUITests;
-			productReference = F638FFEB2EEE01DB00F3293C /* EAUITests.xctest */;
+			productName = Green-Life-AssistantUITests;
+			productReference = F638FFEB2EEE01DB00F3293C /* Green-Life-AssistantUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -226,7 +226,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F638FFCF2EEE01DA00F3293C /* Build configuration list for PBXProject "EA" */;
+			buildConfigurationList = F638FFCF2EEE01DA00F3293C /* Build configuration list for PBXProject "Green-Life-Assistant" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -245,9 +245,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F638FFD32EEE01DA00F3293C /* EA */,
-				F638FFE02EEE01DB00F3293C /* EATests */,
-				F638FFEA2EEE01DB00F3293C /* EAUITests */,
+				F638FFD32EEE01DA00F3293C /* Green-Life-Assistant */,
+				F638FFE02EEE01DB00F3293C /* Green-Life-AssistantTests */,
+				F638FFEA2EEE01DB00F3293C /* Green-Life-AssistantUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -303,12 +303,12 @@
 /* Begin PBXTargetDependency section */
 		F638FFE32EEE01DB00F3293C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F638FFD32EEE01DA00F3293C /* EA */;
+			target = F638FFD32EEE01DA00F3293C /* Green-Life-Assistant */;
 			targetProxy = F638FFE22EEE01DB00F3293C /* PBXContainerItemProxy */;
 		};
 		F638FFED2EEE01DB00F3293C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F638FFD32EEE01DA00F3293C /* EA */;
+			target = F638FFD32EEE01DA00F3293C /* Green-Life-Assistant */;
 			targetProxy = F638FFEC2EEE01DB00F3293C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -448,7 +448,7 @@
 				DEVELOPMENT_TEAM = B294PMB252;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = EA/Info.plist;
+				INFOPLIST_FILE = Green-Life-Assistant/Info.plist;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -461,7 +461,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhh.EA;
+				PRODUCT_BUNDLE_IDENTIFIER = zhh.GreenLifeAssistant;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -484,7 +484,7 @@
 				DEVELOPMENT_TEAM = B294PMB252;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = EA/Info.plist;
+				INFOPLIST_FILE = Green-Life-Assistant/Info.plist;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -497,7 +497,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhh.EA;
+				PRODUCT_BUNDLE_IDENTIFIER = zhh.GreenLifeAssistant;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -519,7 +519,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhh.EATests;
+				PRODUCT_BUNDLE_IDENTIFIER = zhh.GreenLifeAssistantTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -527,7 +527,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EA.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EA";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Green-Life-Assistant.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Green-Life-Assistant";
 			};
 			name = Debug;
 		};
@@ -541,7 +541,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhh.EATests;
+				PRODUCT_BUNDLE_IDENTIFIER = zhh.GreenLifeAssistantTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -549,7 +549,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EA.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EA";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Green-Life-Assistant.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Green-Life-Assistant";
 			};
 			name = Release;
 		};
@@ -561,7 +561,7 @@
 				DEVELOPMENT_TEAM = B294PMB252;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhh.EAUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = zhh.GreenLifeAssistantUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -569,7 +569,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = EA;
+				TEST_TARGET_NAME = Green-Life-Assistant;
 			};
 			name = Debug;
 		};
@@ -581,7 +581,7 @@
 				DEVELOPMENT_TEAM = B294PMB252;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = zhh.EAUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = zhh.GreenLifeAssistantUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -589,14 +589,14 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = EA;
+				TEST_TARGET_NAME = Green-Life-Assistant;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F638FFCF2EEE01DA00F3293C /* Build configuration list for PBXProject "EA" */ = {
+		F638FFCF2EEE01DA00F3293C /* Build configuration list for PBXProject "Green-Life-Assistant" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F638FFF32EEE01DB00F3293C /* Debug */,
@@ -605,7 +605,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F638FFF52EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "EA" */ = {
+		F638FFF52EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "Green-Life-Assistant" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F638FFF62EEE01DB00F3293C /* Debug */,
@@ -614,7 +614,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F638FFF82EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "EATests" */ = {
+		F638FFF82EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "Green-Life-AssistantTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F638FFF92EEE01DB00F3293C /* Debug */,
@@ -623,7 +623,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F638FFFB2EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "EAUITests" */ = {
+		F638FFFB2EEE01DB00F3293C /* Build configuration list for PBXNativeTarget "Green-Life-AssistantUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F638FFFC2EEE01DB00F3293C /* Debug */,

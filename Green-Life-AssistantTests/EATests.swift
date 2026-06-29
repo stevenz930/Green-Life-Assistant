@@ -6,7 +6,7 @@
 //
 
 import Testing
-@testable import EA
+@testable import Green_Life_Assistant
 
 struct EATests {
 
