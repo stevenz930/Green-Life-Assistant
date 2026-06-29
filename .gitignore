@@ -5,7 +5,7 @@ EA/Secrets.plist
 .DS_Store
 
 # Xcode
-*.xcuserdata
-*.xcworkspace/xcuserdata
+xcuserdata/
+**/xcuserdata/
 DerivedData/
 build/

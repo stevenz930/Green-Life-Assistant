@@ -44,7 +44,10 @@ func fetchLogin(_ username: String, _ password: String) async throws -> User {
     
     print("[Supabase Fetch] users: \(users)")
     
-    return users.first!
+    guard let user = users.first else {
+        throw NSError(domain: "LoginError", code: 401, userInfo: [NSLocalizedDescriptionKey: "Invalid username or password"])
+    }
+    return user
 }
 
 // MARK: - Upload Carbon Footprint Record
