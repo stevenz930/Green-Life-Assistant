@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Oswald-VariableFont_wght.ttf</string>
+	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>需要使用相機進行垃圾分類 AR 掃描。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>需要將拍攝的相機畫面儲存到相簿。</string>
+</dict>
+</plist>

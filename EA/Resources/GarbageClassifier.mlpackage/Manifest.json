@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "D5326FC0-9988-408E-B3AF-CFCF24FD5FD3": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "DFE7EE18-2F0B-4408-ACBF-2E2D5DD886F6": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "GarbageClassifier.mlmodel",
+            "path": "com.apple.CoreML/GarbageClassifier.mlmodel"
+        },
+        "E31CDDDB-124F-4EB6-82B3-F41C6B18DC7E": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "DFE7EE18-2F0B-4408-ACBF-2E2D5DD886F6"
+}

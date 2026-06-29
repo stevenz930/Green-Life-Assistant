@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "platform.arreferenceimage",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "on-demand-resource-tags" : [ ]
+  }
+}

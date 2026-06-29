@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "filename" : "platform.png",
+      "idiom" : "universal",
+      "physicalWidth" : 0.2
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
